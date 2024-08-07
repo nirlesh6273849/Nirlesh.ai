@@ -1,40 +1,6 @@
 <div align=center>
-<img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
-
-**Non-cherry-picked** random batch by just typing two words "forest elf", 
-
-without any parameter tweaking, without any strange prompt tags. 
-
-See also **non-cherry-picked** generalization and diversity tests [here](https://github.com/lllyasviel/Fooocus/discussions/2067) and [here](https://github.com/lllyasviel/Fooocus/discussions/808) and [here](https://github.com/lllyasviel/Fooocus/discussions/679) and [here](https://github.com/lllyasviel/Fooocus/discussions/679#realistic).
-
-In the entire open source community, only Fooocus can achieve this level of **non-cherry-picked** quality.
-
-</div>
 
 
-# Fooocus
-
-Fooocus is an image generating software (based on [Gradio](https://www.gradio.app/)).
-
-Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs:
-
-* Learned from Stable Diffusion, the software is offline, open source, and free.
-
-* Learned from Midjourney, the manual tweaking is not needed, and users only need to focus on the prompts and images.
-
-Fooocus has included and automated [lots of inner optimizations and quality improvements](#tech_list). Users can forget all those difficult technical parameters, and just enjoy the interaction between human and computer to "explore new mediums of thought and expanding the imaginative powers of the human species" `[1]`.
-
-Fooocus has simplified the installation. Between pressing "download" and generating the first image, the number of needed mouse clicks is strictly limited to less than 3. Minimal GPU memory requirement is 4GB (Nvidia).
-
-`[1]` David Holz, 2019.
-
-**Recently many fake websites exist on Google when you search “fooocus”. Do not trust those – here is the only official source of Fooocus.**
-
-## [Installing Fooocus](#download)
-
-# Moving from Midjourney to Fooocus
-
-Using Fooocus is as easy as (probably easier than) Midjourney – but this does not mean we lack functionality. Below are the details.
 
 | Midjourney | Fooocus |
 | - | - |
